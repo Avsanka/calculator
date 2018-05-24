@@ -24,3 +24,4 @@ button1.addEventListener("click", changeColor("red"));
 button2.addEventListener("click", changeColor("green"));
 button3.addEventListener("click", changeColor("blue"));
 
+
